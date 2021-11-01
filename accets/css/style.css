@@ -1,0 +1,15 @@
+.header-section h1 {
+  color: #0000ff;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  text-align: left;
+  font-weight: bolder;
+}
+
+.header-subseciton h1 {
+  color: #ff0000;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  text-align: left;
+  font-weight: bolder;
+}
